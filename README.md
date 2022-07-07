@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 
 1. 画像を消去するなら**rm**をクリック, 消去しないなら**keep**をクリック
 
-    !(Screenshot_1.png)[./.readme_src/Screenshot_1.png]
+    ![Screenshot_1.png](./readme_src/Screenshot_1.png)
 
 1. [rm_file.sh](./rm_file.sh)が生成されるので実行
 ~~~zsh
