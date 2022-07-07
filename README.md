@@ -25,5 +25,5 @@ $ pip install -r requirements.txt
 
 1. [rm_file.sh](./rm_file.sh)が生成されるので実行
 ~~~zsh
-$ ./rm_mnt.sh
+$ ./rm_file.sh
 ~~~
